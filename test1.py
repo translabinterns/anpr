@@ -1,2 +1,2 @@
-print("mustufa ")
+print("mustuf   a ")
 print ("hellllllooooo")
