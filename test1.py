@@ -1,1 +1,1 @@
-print("mustufa jerk")
+print("mustufa ")
